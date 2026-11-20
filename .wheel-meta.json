@@ -1,0 +1,22 @@
+{
+  "wheel_id": 935,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-108",
+  "project": "mortgage-broker-ipswich-faq-e516465d466de64b238879c5204cf4ad5b4",
+  "parent_t1_ref": "homeloanbrokeripswich-153",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich faq",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-ipswich-faq-e516465d466de64b238879c5204cf4ad5b4/",
+  "tier": "T2",
+  "writeback_nonce": "b7c3a7ead093c101",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokeripswich-153/",
+      "anchor": "the mortgage broker ipswich red flags overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
